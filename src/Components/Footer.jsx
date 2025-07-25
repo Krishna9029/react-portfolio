@@ -1,5 +1,5 @@
 import React from 'react';
-import github_icon from '../assets/Github.png';
+import github_icon from '../assets/GitHub.png';
 import linkedin_icon from '../assets/LinkedIn.png';
 
 const GITHUB_URL = 'https://github.com/';
