@@ -1,6 +1,7 @@
 import React from 'react';
 import ecommerce from '../assets/ecommerce.png';
 import Blog_img from '../assets/Blog.png';
+import Imagify_img from '../assets/imagify.png';
 
 const projectsData = [
     {
@@ -22,7 +23,18 @@ const projectsData = [
         description: "Responsive blog with comment system, theme toggle, and SEO features.",
         image: Blog_img,
         link: "https://quick-blog-ygaj.vercel.app",
-        github: "https://github.com/your-username/blog-website",
+        github: "https://github.com/Krishna9029/QuickBlog",
+        tags: ["React", "Node.js", "MongoDB", "Razorpay"],
+        category: "Full Stack"
+    },
+    {
+        id: 3,
+        title: "Ai Image generate Website",
+        subtitle: "Content Management Platform",
+        description: "Responsive blog with comment system, theme toggle, and SEO features.",
+        image: Imagify_img,
+        link: "https://imagify-frontend-gold.vercel.app/",
+        github: "https://github.com/Krishna9029/Imagify",
         tags: ["React", "Node.js", "MongoDB", "Razorpay"],
         category: "Full Stack"
     }
