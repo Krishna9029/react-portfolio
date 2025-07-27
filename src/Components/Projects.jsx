@@ -59,7 +59,7 @@ const ProjectCard = ({ project }) => (
             <img
                 src={project.image}
                 alt={`${project.title}`}
-                className="w-full h-full object-cover object-center"
+                className="w-full h-full object-cover object-center transition-transform duration-300 "
             />
         </div>
 
