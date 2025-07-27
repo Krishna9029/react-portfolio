@@ -145,7 +145,7 @@ const Projects = () => {
             </div>
 
             {/* Footer CTA */}
-            <div className="text-center mt-16 max-w-3xl mx-auto">
+            <div className="text-center mt-16 max-w-3xl mx-auto ">
                 <div className="p-6 rounded-xl bg-white dark:bg-gray-900 shadow-inner border border-gray-200 dark:border-gray-700">
                     <h3 className="text-xl font-semibold text-gray-800 dark:text-white mb-2">
                         Want to see more?
