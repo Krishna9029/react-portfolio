@@ -2,6 +2,7 @@ import React from 'react';
 import ecommerce from '../assets/ecommerce.png';
 import Blog_img from '../assets/Blog.png';
 import Imagify_img from '../assets/imagify.png';
+import Todo_img from '../assets/TodoList.png';
 
 const projectsData = [
     {
@@ -36,6 +37,17 @@ const projectsData = [
         link: "https://imagify-frontend-gold.vercel.app/",
         github: "https://github.com/Krishna9029/Imagify",
         tags: ["React", "Node.js", "MongoDB", "Razorpay"],
+        category: "Full Stack"
+    },
+    {
+        id: 4,
+        title: "Todo App",
+        subtitle: "Task Management Simplified",
+        description: "A simple yet effective todo app with features like task  due dates, and dark mode.",
+        image: Todo_img,
+        link: "https://todo-list-frontend-one-zeta.vercel.app/",
+        github: "https://github.com/Krishna9029/Todo-List",
+        tags: ["React", "Node.js", "MongoDB", "Express"],
         category: "Full Stack"
     }
 ];
