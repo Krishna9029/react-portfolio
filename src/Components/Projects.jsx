@@ -2,7 +2,7 @@ import React from 'react';
 import ecommerce from '../assets/ecommerce.png';
 import Blog_img from '../assets/Blog.png';
 import Imagify_img from '../assets/imagify.png';
-import Todo_img from '../assets/TodoList.png';
+import Todo_img from '../assets/todolist.png';
 
 const projectsData = [
     {
