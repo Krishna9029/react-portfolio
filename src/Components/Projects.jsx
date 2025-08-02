@@ -2,7 +2,7 @@ import React from 'react';
 import ecommerce from '../assets/ecommerce.png';
 import Blog_img from '../assets/Blog.png';
 import Imagify_img from '../assets/imagify.png';
-import Todo_img from '../assets/todolist.png';
+import todo_img from '../assets/todo.png';
 
 const projectsData = [
     {
@@ -44,7 +44,7 @@ const projectsData = [
         title: "Todo App",
         subtitle: "Task Management Simplified",
         description: "A simple yet effective todo app with features like task  due dates, and dark mode.",
-        image: Todo_img,
+        image: todo_img,
         link: "https://todo-list-frontend-one-zeta.vercel.app/",
         github: "https://github.com/Krishna9029/Todo-List",
         tags: ["React", "Node.js", "MongoDB", "Express"],
